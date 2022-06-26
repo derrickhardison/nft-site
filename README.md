@@ -1,7 +1,5 @@
 # nft-site
 
-![nft-site-screenshot](./images/nft-site-screenshot.png)
-
 Simple static site that focuses on semantic HTML but mostly CSS essentials:
 
 - Pseudo selectors
@@ -9,3 +7,7 @@ Simple static site that focuses on semantic HTML but mostly CSS essentials:
 - Specificity
 - Compound selectors
 - Inline-block
+
+
+![nft-site-screenshot](./images/nft-site-screenshot.png)
+
