@@ -36,3 +36,33 @@ section h2 {
 .main-image {
   width: 100%;
 }
+
+a:hover,
+a:active {
+  color: #d4b44c;
+}
+
+a {
+  color: #ef5839;
+  text-decoration: underline dotted;
+}
+
+.container {
+  width: 620px;
+  margin: auto;
+}
+
+.nft-info {
+  background-color: #5f29a3;
+  color: whitesmoke;
+}
+
+.img-section img {
+  width: 300px;
+  border-radius: 4.6px;
+}
+
+.img-section {
+  display: flex;
+  justify-content: space-between;
+}
