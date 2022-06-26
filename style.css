@@ -12,6 +12,10 @@ header {
   padding: 45px 0;
 }
 
+p {
+  line-height: 23px;
+}
+
 header h1 {
   font-size: 36px;
   color: whitesmoke;
@@ -65,4 +69,40 @@ a {
 .img-section {
   display: flex;
   justify-content: space-between;
+}
+
+footer {
+  text-align: center;
+  color: #5f29a3;
+  padding: 45px 0;
+}
+
+.btn {
+  padding: 10px 19px;
+  border-radius: 4.6px;
+  font-weight: 500;
+  text-decoration: none;
+  display: inline-block;
+  /* margin: 20px 10px 20px 0; */
+}
+
+.btn:hover,
+.btn:active {
+  background-color: #f3e885;
+  color: #2b283a;
+}
+
+.btn-dark {
+  background-color: #5f29a3;
+  color: whitesmoke;
+}
+
+.btn-light {
+  background-color: whitesmoke;
+  color: #5f29a3;
+}
+
+.btn-mid {
+  background-color: #f0e0ff;
+  color: #5f29a3;
 }
